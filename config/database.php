@@ -45,12 +45,12 @@ return [
 
         'oracle' => [
             'driver' => 'oracle',
-            'host' => '172.30.0.197',
+            'host' => '127.0.0.1',
             'port' => '1521',
             'database' => 'LINUX_DB',
-            'service_name' => 'POLICY',
-            'username' => 'SHAHIDUL',
-            'password' => 'SHAHIDUL',
+            'service_name' => 'SERVICE',
+            'username' => 'NOBEL',
+            'password' => '123456',
             'charset' => 'utf8',
             'prefix' => '',
         ],
